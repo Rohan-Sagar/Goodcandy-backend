@@ -2,10 +2,10 @@
   "name": "whatsapp-backend",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js review.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js review.js"
+    "start": "node server.js"
   },
   "author": "Rohan Sagar",
   "license": "ISC",
